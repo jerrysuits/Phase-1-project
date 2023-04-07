@@ -8,15 +8,43 @@ body{
      color: white;
 }
 
+h1{
+     font-size: 80px;
+
+}
+
 /* Styling the navbar */
 .nav-bar{
      background-color: #4E4459;
+     height: 90px;
   
+}
+.nav-items{
+     display: flex;
+     margin-left: 1000px;
+     font-size: 30px;
+     margin-bottom: 90px;
+     list-style: none;
+     margin-bottom: 70px;
+    
+}
+.home{
+     margin-right: 20px;
+     text-decoration: none;
+}
+.shop{
+     margin-right: 20px;
+     text-decoration: none;
+}
+.contact{
+     margin-right: 20px;
+     text-decoration: none;
 }
 .home-sec{
      background-color: #594445;
      height: 500px;
 }
+
 
 .shop-sec{
      background-color: #4F5944;
