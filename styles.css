@@ -1,0 +1,16 @@
+
+
+/* General body styles */
+body{
+     display: inline;
+     font-family: 'Hind', sans-serif;
+     font-weight: bold;
+}
+
+/* Styling the navbar */
+.nav-bar{
+     background-color: #B1BBA6;
+     color: #663366;
+}
+
+
