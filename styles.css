@@ -5,12 +5,25 @@ body{
      display: inline;
      font-family: 'Hind', sans-serif;
      font-weight: bold;
+     color: white;
 }
 
 /* Styling the navbar */
 .nav-bar{
-     background-color: #B1BBA6;
-     color: #663366;
+     background-color: #4E4459;
+  
+}
+.home-sec{
+     background-color: #594445;
+     height: 500px;
 }
 
+.shop-sec{
+     background-color: #4F5944;
+     height: 500px;
+}
 
+.contact-sec{
+     background-color: #445959;
+     height: 500px;
+}
