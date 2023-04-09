@@ -16,17 +16,15 @@ h1{
 /* Styling the navbar */
 .nav-bar{
      background-color: #4E4459;
-     height: 90px;
+     height: 140px;
   
 }
 .nav-items{
      display: flex;
      margin-left: 1000px;
      font-size: 30px;
-     margin-bottom: 90px;
      list-style: none;
-     margin-bottom: 70px;
-    
+   
 }
 .home{
      margin-right: 20px;
@@ -42,13 +40,14 @@ h1{
 }
 .home-sec{
      background-color: #594445;
-     height: 500px;
+     height: 700px;
 }
+
 
 
 .shop-sec{
      background-color: #4F5944;
-     height: 500px;
+     height: 900px;
 }
 
 .contact-sec{
