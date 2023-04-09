@@ -54,3 +54,21 @@ h1{
      background-color: #445959;
      height: 500px;
 }
+
+#submit-btn{
+     background-color: greenyellow;
+     color: black;
+     border-radius: 8px;
+}
+
+#delete-btn{
+     background-color: black;
+     border-radius: 8px;
+     color: white;
+}
+
+#reviews{
+     text-align: center;
+     width: 500px;
+     height: 30px;
+}
